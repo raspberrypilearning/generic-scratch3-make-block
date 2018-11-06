@@ -1,58 +1,42 @@
-## Introduction
 
-Add project description here. What will learners be making?
+## Making a block
 
-### What you will make
++ Click on **My Blocks**, and then click **Make a Block**.
 
---- no-print ---
-Add instructions for using the embedded content here.
+![My Blocks](images/my-blocks-annotated.png)
 
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
-</div>
---- /no-print ---
++ Give your new block a name and then click **OK**.
 
---- print-only ---
-![Complete project](images/showcase_static.png)
---- /print-only ---
+![Create a new block](images/block-create.png)
 
---- collapse ---
----
-title: What you will need
----
-### Hardware
++ You will see a new `define` block. Attach code to this block.
 
-+ Describe hardware here
+![Define a new block](images/block-define.png)
 
-### Software
++ You can then use your new block just like any normal block.
 
-+ Scratch 2.0 (either [online](http://rpf.io/scratchon) or [offline](http://rpf.io/scratchoff))
-+ Python 3
-+ This project can be completed in a web browser using [trinket.io](https://trinket.io/)
+![Use a new block](images/block-use.png)
 
-### Downloads
++ The code attached to your new `define` block is run whenever the block is used.
 
-+ [rpf.io/project-name-go](http://rpf.io/project-name-go){:target="_blank"}
+![Test a new block](images/block-test.png)
 
---- /collapse ---
 
---- collapse ---
----
-title: What you will learn
----
+#### Making a block with parameters
 
-+ Two or three learning objectives
-+ ...should go here
++ You can also create blocks that have 'gaps' for adding data. These 'gaps' are called 'parameters'. To add parameters, first make a new block, and then click on the options below to choose the type of data you want to add. Then give your data a name, and click **OK**.
 
---- /collapse ---
+![Create a new block with parameters](images/parameter-create-annotated.png)
 
---- collapse ---
----
-title: Additional information for educators
----
++ You will see a new `define` block as usual, except that this one contains the data gap you added and which you gave a name.
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/project-name/print){:target="_blank"}.
+![Define a new block with parameters](images/parameter-define-annotated.png)
 
-[Here is a link to the resources for this project](http://rpf.io/project-name-go).
++ You can then use your new block, filling in data in the gap.
 
---- /collapse ---
+![Use a new block with parameters](images/parameter-use.png)
+
++ As usual, the code attached to your new `define` block is run whenever the block is used.
+
+![Test a new block with parameters](images/parameter-test.png)
+
