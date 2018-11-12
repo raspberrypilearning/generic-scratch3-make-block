@@ -1,5 +1,5 @@
 
-## Making a block
+### Making a block
 
 + Click on **My Blocks**, and then click **Make a Block**.
 
@@ -21,8 +21,7 @@
 
 ![Test a new block](images/block-test.png)
 
-
-#### Making a block with parameters
+### Making a block with parameters
 
 + You can also create blocks that have 'gaps' for adding data. These 'gaps' are called 'parameters'. To add parameters, first make a new block, and then click on the options below to choose the type of data you want to add. Then give your data a name, and click **OK**.
 
