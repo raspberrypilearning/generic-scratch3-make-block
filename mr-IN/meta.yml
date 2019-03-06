@@ -1,16 +1,16 @@
 ---
-title: Making a block
+title: ब्लॉक बनवणे
 hero_image: images/banner.png
-description: Making a block
-theme: red
-duration: 1
+description: ब्लॉक बनवणे
+theme: लाल
+duration: 0
 listed: false
 ingredient: true
 copyedit: true
-curriculum: builder, design-0, programming-2, phys-comp-0, manufacture-0, community-0
+curriculum: बिल्डर, डिझाइन-०, प्रोग्रामिंग-१, भौतिक संगणन-०, उत्पादन-०, समुदाय-०
 interests: ""
 technologies: "scratch"
 site_areas:
 steps:
   - 
-    title: Making a block
+    title: ब्लॉक बनवणे
