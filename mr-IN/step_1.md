@@ -1,39 +1,39 @@
-### Making a block
+### ब्लॉक बनवणे
 
-+ Click on **My Blocks**, and then click **Make a Block**.
++ **My Blocks**वर क्लिक करा आणि नंतर **Make a Block**वर क्लिक करा.
 
-![My Blocks](images/my-blocks-annotated.png)
+![माझे ब्लॉक्स](images/my-blocks-annotated.png)
 
-+ Give your new block a name and then click **OK**.
++ आपल्या नवीन ब्लॉकला एक नाव द्या आणि नंतर **OK** वर क्लिक करा.
 
-![Create a new block](images/block-create.png)
+![नवीन ब्लॉक तयार करा](images/block-create.png)
 
-+ You will see a new `define` block. Attach code to this block.
++ आपल्याला एक नवीन `define` ब्लॉक दिसेल. या ब्लॉकमध्ये कोड संलग्न करा.
 
-![Define a new block](images/block-define.png)
+![नवीन ब्लॉक परिभाषित करा](images/block-define.png)
 
-+ You can then use your new block just like any normal block.
++ आपण नंतर आपला नवीन ब्लॉक कोणत्याही सामान्य ब्लॉकसारखे वापरू शकता.
 
-![Use a new block](images/block-use.png)
+![नवीन ब्लॉक वापरा](images/block-use.png)
 
-+ The code attached to your new `define` block is run whenever the block is used.
++ जेव्हा आपला ब्लॉक वापरला जातो तेव्हा आपल्या नवीन `define` ब्लॉकशी संलग्न केलेला कोड चालविला जातो.
 
-![Test a new block](images/block-test.png)
+![नवीन ब्लॉकची चाचणी घ्या](images/block-test.png)
 
-### Making a block with parameters
+### पॅरामीटर्ससह ब्लॉक करणे
 
-+ You can also create blocks that have 'gaps' for adding data. These 'gaps' are called 'parameters'. To add parameters, first make a new block, and then click on the options below to choose the type of data you want to add. Then give your data a name, and click **OK**.
++ आपण डेटा जोडण्यासाठी 'अंतर' असलेले ब्लॉक देखील तयार करू शकता. या 'अंतरांना' 'पॅरामीटर्स' म्हणतात. पॅरामीटर्स जोडण्यासाठी, प्रथम नवीन ब्लॉक बनवा आणि नंतर आपण जो डेटा जोडू इच्छिता तो निवडण्यासाठी खालील पर्यायांवर क्लिक करा. मग आपला डेटाला एक नाव द्या आणि **OK** क्लिक करा.
 
-![Create a new block with parameters](images/parameter-create-annotated.png)
+![पॅरामीटर्ससह नवीन ब्लॉक तयार करा](images/parameter-create-annotated.png)
 
-+ You will see a new `define` block as usual, except that this one contains the data gap you added and which you gave a name.
++ आपल्याला नेहमीप्रमाणे एक नवीन `define` ब्लॉक दिसेल, याशिवाय त्यात आपण जोडलेले डेटा अंतर आणि आपण दिलेले नाव दिसेल.
 
-![Define a new block with parameters](images/parameter-define-annotated.png)
+![पॅरामीटर्ससह नवीन ब्लॉक परिभाषित करा](images/parameter-define-annotated.png)
 
-+ You can then use your new block, filling in data in the gap.
++ आपण नंतर अंतर मध्ये डेटा भरून, आपला नवीन ब्लॉक वापरू शकता.
 
-![Use a new block with parameters](images/parameter-use.png)
+![पॅरामीटर्ससह नवीन ब्लॉक वापरा](images/parameter-use.png)
 
-+ As usual, the code attached to your new `define` block is run whenever the block is used.
++ नेहमीप्रमाणे, जेव्हा आपला ब्लॉक वापरला जातो तेव्हा आपल्या नवीन `define` ब्लॉकशी संलग्न केलेला कोड चालविला जातो.
 
-![Test a new block with parameters](images/parameter-test.png)
+![पॅरामीटर्ससह नवीन ब्लॉकची चाचणी घ्या](images/parameter-test.png)
