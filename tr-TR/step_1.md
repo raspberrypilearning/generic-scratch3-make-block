@@ -1,39 +1,39 @@
-### Making a block
+### Bir blok oluşturma
 
-+ Click on **My Blocks**, and then click **Make a Block**.
++ **Bloklarım** sekmesinden **Bir Blok Oluştur** 'u tıklayın.
 
-![My Blocks](images/my-blocks-annotated.png)
+![Bloklarım](images/my-blocks-annotated.png)
 
-+ Give your new block a name and then click **OK**.
++ Yeni bloğunuza bir isim verin ve **Tamam** düğmesini tıklayın.
 
-![Create a new block](images/block-create.png)
+![Yeni bir blok oluştur](images/block-create.png)
 
-+ You will see a new `define` block. Attach code to this block.
++ Yeni bir `tanım` bloğu göreceksiniz. Kodu bu bloğa ekleyin.
 
-![Define a new block](images/block-define.png)
+![Yeni bir blok tanımla](images/block-define.png)
 
-+ You can then use your new block just like any normal block.
++ Artık yeni bloğunuzu, normal bloklar gibi kullanabilirsiniz.
 
-![Use a new block](images/block-use.png)
+![Yeni bir blok kullan](images/block-use.png)
 
-+ The code attached to your new `define` block is run whenever the block is used.
++ Yeni `tanım` bloğunuza eklenen kod, bloğun her kullanımında çalıştırılır.
 
-![Test a new block](images/block-test.png)
+![Yeni bir blok test et](images/block-test.png)
 
-### Making a block with parameters
+### Değişkenli blok oluşturma
 
-+ You can also create blocks that have 'gaps' for adding data. These 'gaps' are called 'parameters'. To add parameters, first make a new block, and then click on the options below to choose the type of data you want to add. Then give your data a name, and click **OK**.
++ Sonradan veri eklemek için 'boşlukları' olan bloklar da oluşturabilirsiniz. Bu 'boşluklar', 'değişken' olarak adlandırılır. Değişken eklemek için önce yeni bir blok yapın, ardından aşağıdaki seçeneklerden eklemek istediğiniz veri türünü seçmek için tıklayın. Sonra verinize bir isim verin ve **Tamam**'ı tıklayın.
 
-![Create a new block with parameters](images/parameter-create-annotated.png)
+![Değişkenlerle yeni bir blok oluşturun](images/parameter-create-annotated.png)
 
-+ You will see a new `define` block as usual, except that this one contains the data gap you added and which you gave a name.
++ Her zamankinden farklı olarak bu kez isim verip veri boşluğu eklediğiniz yeni bir `tanım` bloğu göreceksiniz.
 
-![Define a new block with parameters](images/parameter-define-annotated.png)
+![Değişkenlerle yeni bir blok tanımlayın](images/parameter-define-annotated.png)
 
-+ You can then use your new block, filling in data in the gap.
++ Daha sonra bu yeni bloğunuzu, boşluğuna veri girerek kullanabilirsiniz.
 
-![Use a new block with parameters](images/parameter-use.png)
+![Değişkenli yeni bir bloğu kullanın](images/parameter-use.png)
 
-+ As usual, the code attached to your new `define` block is run whenever the block is used.
++ Her zamanki gibi, yeni `tanım` bloğunuza eklenen kod, bloğun her kullanımında çalıştırılır.
 
 ![Test a new block with parameters](images/parameter-test.png)
