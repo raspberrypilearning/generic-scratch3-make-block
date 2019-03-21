@@ -36,4 +36,4 @@
 
 + Her zamanki gibi, yeni `tanım` bloğunuza eklenen kod, bloğun her kullanımında çalıştırılır.
 
-![Test a new block with parameters](images/parameter-test.png)
+![Değişkenli yeni bir bloğu test edin](images/parameter-test.png)
