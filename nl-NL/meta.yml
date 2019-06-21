@@ -1,8 +1,8 @@
 ---
-title: Making a block
-hero_image: images/banner.png
-description: Making a block
-theme: red
+title: Een blok maken
+hero_image: afbeeldingen/banner.png
+description: Een blok maken
+theme: rood
 duration: 1
 listed: false
 ingredient: true
@@ -13,4 +13,4 @@ technologies: "scratch"
 site_areas:
 steps:
   - 
-    title: Making a block
+    title: Een blok maken
