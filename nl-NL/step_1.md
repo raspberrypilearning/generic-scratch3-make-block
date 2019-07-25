@@ -1,6 +1,6 @@
 ### Een blok maken
 
-+ Klik op **Mijn blokken**en klik vervolgens op **Maak een blok**.
++ Klik op **Mijn blokken** en klik vervolgens op **Maak een blok**.
 
 ![Mijn blokken](images/my-blocks-annotated.png)
 
