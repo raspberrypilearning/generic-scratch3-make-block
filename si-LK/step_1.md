@@ -1,39 +1,39 @@
-### Making a block
+### කට්ටියක්(block එකක්) සෑදීම
 
-+ Click on **My Blocks**, and then click **Make a Block**.
++ ** මගේ කට්ටි(My Blocks)** මත ක්ලික් කරන්න, පසුව ** කට්ටියක් සාදන්න(Make a Block)** මත ක්ලික් කරන්න.
 
-![My Blocks](images/my-blocks-annotated.png)
+![මගේ කට්ටි(blocks)](images/my-blocks-annotated.png)
 
-+ Give your new block a name and then click **OK**.
++ ඔබගේ නව කට්ටියට(block එකට) නමක් දී ** හරි(OK) ** ක්ලික් කරන්න.
 
-![Create a new block](images/block-create.png)
+![නව කට්ටියක්(block එකක්) සෑදීම](images/block-create.png)
 
-+ You will see a new `define` block. Attach code to this block.
++ ඔබට නව `නිර්වචනය(define)` කට්ටිය(block එක) පෙනෙනු ඇත. මෙම කට්ටිය(block) වෙත කේත(code) ඇමිණීම.
 
-![Define a new block](images/block-define.png)
+![නව කට්ටියක්(block එකක්) නිර්වචනය කිරීම](images/block-define.png)
 
-+ You can then use your new block just like any normal block.
++ එවිට ඔබට ඕනෑම සාමාන්‍ය කට්ටියක්(block එකක්) මෙන් ඔබේ නව කට්ටිය(block) භාවිතා කළ හැකිය.
 
-![Use a new block](images/block-use.png)
+![නව කට්ටියක්(block එකක්) භාවිතය](images/block-use.png)
 
-+ The code attached to your new `define` block is run whenever the block is used.
++ නව `නිර්වචන(define)` කට්ටියට(block) අමුණා ඇති කේතයන් එම කට්ටිය(block) භාවිතා කරන සැම විටම ධාවනයවේ(run).
 
-![Test a new block](images/block-test.png)
+![නව කට්ටියක්(block එකක්) පරීක්ෂා කිරීම](images/block-test.png)
 
-### Making a block with parameters
+### පරාමිතීන්(parameters) සහිත කට්ටියක්(block එකක්) සෑදීම
 
-+ You can also create blocks that have 'gaps' for adding data. These 'gaps' are called 'parameters'. To add parameters, first make a new block, and then click on the options below to choose the type of data you want to add. Then give your data a name, and click **OK**.
++ ඔබට දත්ත එකතු කිරීම සඳහා 'හිඩැස්(gaps)' ඇති කට්ටි(blocks) සෑදිය හැකිය. මෙම 'හිඩැස්(gaps)' පරාමිතීන්(parameters) ලෙස හැඳින්වේ. පරාමිතීන්(parameters) එක් කිරීම සඳහා පළමුව නව කට්ටියක්(block) සාදන්න, ඉන් අනතුරුව ඒ සඳහා අවශ්‍ය දත්ත(data) වර්ගය තෝරා ගැනීමට පහත දක්වා ඇති දත්ත(data) වර්ග වලින් අවශ්‍ය දත්ත(data) වර්ගය මත ක්ලික් කරන්න. ඉන්පසු ඔබේ දත්ත(data) වලට නමක් දී **හරි(OK)** මත ක්ලික් කරන්න.
 
-![Create a new block with parameters](images/parameter-create-annotated.png)
+![පරාමිතීන්(parameters) සහිත නව කට්ටියක්(block එකක්) සෑදීම](images/parameter-create-annotated.png)
 
-+ You will see a new `define` block as usual, except that this one contains the data gap you added and which you gave a name.
++ ඔබට නව `නිර්වචනය(define)` කට්ටිය(block එක) සුපුරුදු පරිදි දැකගත හැක, නමුත් මෙහි ඔබ නමක් යෙදූ දත්ත(data) හිඩැස(gap) අඩංගු වේ.
 
-![Define a new block with parameters](images/parameter-define-annotated.png)
+![පරාමිතීන්(parameters) සහිත නව කට්ටියක්(block) එකක් නිර්වචනය කිරීම](images/parameter-define-annotated.png)
 
-+ You can then use your new block, filling in data in the gap.
++ ඔබට හිඩැස(gap) තුළ දත්ත(data) යොදා ඔබේ නව කට්ටිය(block එක) භාවිතා කළ හැකිය.
 
-![Use a new block with parameters](images/parameter-use.png)
+![පරාමිතීන්(parameters) සහිත නව කට්ටියක්(block) එකක් භාවිතා කිරීම ](images/parameter-use.png)
 
-+ As usual, the code attached to your new `define` block is run whenever the block is used.
++ සුපුරුදු පරිදි, නව `නිර්වචන(define)` කට්ටියට(block එකට්) අමුණා ඇති කේතයන්(code) එම කට්ටිය(block) භාවිතා කරන සැම විටම ධාවනයවේ(run).
 
-![Test a new block with parameters](images/parameter-test.png)
+![පරාමිතීන්(parameters) සහිත නව කට්ටියක් (block එකක්) පරීක්ෂා කිරීම](images/parameter-test.png)
