@@ -1,6 +1,6 @@
-### Making a block
+### Einen Block machen
 
-+ Click on **My Blocks**, and then click **Make a Block**.
++ Klicke auf **Meine Blöcke** und dann auf **Neuer Block**.
 
 ![My Blocks](images/my-blocks-annotated.png)
 
