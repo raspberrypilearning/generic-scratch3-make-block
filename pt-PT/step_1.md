@@ -1,39 +1,39 @@
-### Making a block
+### Criar um Bloco
 
-+ Click on **My Blocks**, and then click **Make a Block**.
++ Clica em ** Os Meus blocos ** e, em seguida, clica em ** Criar um bloco **.
 
-![My Blocks](images/my-blocks-annotated.png)
+![Os Meus Blocos](images/my-blocks-annotated.png)
 
-+ Give your new block a name and then click **OK**.
++ Dá um nome ao teu novo bloco e clica em ** OK. **.
 
-![Create a new block](images/block-create.png)
+![Criar um bloco](images/block-create.png)
 
-+ You will see a new `define` block. Attach code to this block.
++ Verás um novo bloco `Define`. Anexa código a este bloco.
 
-![Define a new block](images/block-define.png)
+![Definir um novo bloco](images/block-define.png)
 
-+ You can then use your new block just like any normal block.
++ Podes usar o teu novo bloco com outro qualquer bloco normal.
 
-![Use a new block](images/block-use.png)
+![Usar um novo bloco](images/block-use.png)
 
-+ The code attached to your new `define` block is run whenever the block is used.
++ O código anexado ao teu novo bloco `define` será executado sempre que bloco for usado.
 
-![Test a new block](images/block-test.png)
+![Testar um novo bloco](images/block-test.png)
 
-### Making a block with parameters
+### Criar um bloco com parâmetros
 
-+ You can also create blocks that have 'gaps' for adding data. These 'gaps' are called 'parameters'. To add parameters, first make a new block, and then click on the options below to choose the type of data you want to add. Then give your data a name, and click **OK**.
++ Podes também criar blocos que tenham 'espaços' para adicionar dados. Estes 'espaços' são chamados de parâmetros. Para adicionar parâmetros, primeiro cria um novo bloco e depois clica nas opções em baixo para escolher o tipo de dados que desejas adicionar. Em seguida, dá um nome aos teus dados e clica em ** OK. **.
 
-![Create a new block with parameters](images/parameter-create-annotated.png)
+![Criar um bloco novo com parâmetros](images/parameter-create-annotated.png)
 
-+ You will see a new `define` block as usual, except that this one contains the data gap you added and which you gave a name.
++ Verás um novo bloco ` define ` como de costume, excepto que este contém o espaço para os dados ao qual deste um nome.
 
-![Define a new block with parameters](images/parameter-define-annotated.png)
+![Definir um novo bloco com parâmetros](images/parameter-define-annotated.png)
 
-+ You can then use your new block, filling in data in the gap.
++ Podes depois usar o teu novo bloco, preenchendo os espaços com dados.
 
-![Use a new block with parameters](images/parameter-use.png)
+![Usar um novo bloco com parâmetros](images/parameter-use.png)
 
-+ As usual, the code attached to your new `define` block is run whenever the block is used.
++ Como de costume, o código anexado ao teu novo bloco `define` será executado sempre que bloco for usado.
 
-![Test a new block with parameters](images/parameter-test.png)
+![Testar um novo bloco com parâmetros](images/parameter-test.png)
