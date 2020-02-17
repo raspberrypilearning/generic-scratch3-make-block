@@ -1,39 +1,39 @@
-### Making a block
+### Ustvarjanje bloka
 
-+ Click on **My Blocks**, and then click **Make a Block**.
++ Klikni na **Moji bloki** in nato klikni na **Ustvari blok**.
 
-![My Blocks](images/my-blocks-annotated.png)
+![Moji bloki](images/my-blocks-annotated.png)
 
-+ Give your new block a name and then click **OK**.
++ Poimenuj svoj blok in klikni **OK**.
 
-![Create a new block](images/block-create.png)
+![Ustvari nov blok](images/block-create.png)
 
-+ You will see a new `define` block. Attach code to this block.
++ Videl boš nov blok `definiraj`. Temu bloku dodaj kodo.
 
-![Define a new block](images/block-define.png)
+![Definiraj nov blok](images/block-define.png)
 
-+ You can then use your new block just like any normal block.
++ Novi blok lahko uporabiš kot katerikoli navaden blok.
 
-![Use a new block](images/block-use.png)
+![Uporabi nov blok](images/block-use.png)
 
-+ The code attached to your new `define` block is run whenever the block is used.
++ Koda, ki je pripeta k bloku `definiraj`, se izvede, kadarkoli uporabiš ta blok.
 
-![Test a new block](images/block-test.png)
+![Preizkusi nov blok](images/block-test.png)
 
-### Making a block with parameters
+### Ustvarjanje bloka s parametri
 
-+ You can also create blocks that have 'gaps' for adding data. These 'gaps' are called 'parameters'. To add parameters, first make a new block, and then click on the options below to choose the type of data you want to add. Then give your data a name, and click **OK**.
++ Lahko ustvariš tudi bloke, ki imajo 'luknje', v katere lahko dodaš podatke. Te 'luknje' se imenujejo parametri. Za dodajanje parametrov najprej ustvari nov blok in nato klikni na spodnje možnosti, da izbereš vrsto podatka, ki ga želiš dodati. Nato poimenuj tvoj podatek in klikni **OK**.
 
-![Create a new block with parameters](images/parameter-create-annotated.png)
+![Ustvari nov blok s parametri](images/parameter-create-annotated.png)
 
-+ You will see a new `define` block as usual, except that this one contains the data gap you added and which you gave a name.
++ Kot ponavadi boš videl-a nov blok `definiraj`, le da ima ta luknjo za podatek, ki si ga dodal-a in poimenoval-a.
 
-![Define a new block with parameters](images/parameter-define-annotated.png)
+![Definiraj nov blok s parametri](images/parameter-define-annotated.png)
 
-+ You can then use your new block, filling in data in the gap.
++ Nato lahko uporabljaš svoj blok, tako da dodaš podatke v luknjo.
 
-![Use a new block with parameters](images/parameter-use.png)
+![Uporabi nov blok s parametri](images/parameter-use.png)
 
-+ As usual, the code attached to your new `define` block is run whenever the block is used.
++ Kot vedno, se koda, ki je pripeta bloku `definiraj`, izvede, kadar uporabiš ta blok.
 
-![Test a new block with parameters](images/parameter-test.png)
+![Preizkusi nov blok s parametri](images/parameter-test.png)
