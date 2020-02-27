@@ -1,39 +1,39 @@
-### Making a block
+### ایجاد یک قطعه
 
-+ Click on **My Blocks**, and then click **Make a Block**.
++ روی **قطعه‌های من** کلیک کنید و سپس روی **ایجاد یک قطعه** کلیک کنید.
 
-![My Blocks](images/my-blocks-annotated.png)
+![قطعه‌های من](images/my-blocks-annotated.png)
 
-+ Give your new block a name and then click **OK**.
++ قطعه جدید خود را نامگذاری کنید و سپس روی **تایید** کلیک کنید.
 
-![Create a new block](images/block-create.png)
+![یک قطعه‌ی جدید ایجاد کنید](images/block-create.png)
 
-+ You will see a new `define` block. Attach code to this block.
++ شما یک بلوک `تعریف` جدید را می‌ببینید. کد را به این قطعه اضافه کنید.
 
-![Define a new block](images/block-define.png)
+![یک قطعه‌ی جدید تعریف کنید](images/block-define.png)
 
-+ You can then use your new block just like any normal block.
++ حال می‌توانید از قطعه‌ی خود مانند هر قطعه‌ی دیگری استفاده کنید.
 
-![Use a new block](images/block-use.png)
+![از یک قطعه‌ی جدید استفاده کنید](images/block-use.png)
 
-+ The code attached to your new `define` block is run whenever the block is used.
++ کد متصل به قطعه‌ی `تعریف` جدید شما، هر زمان که قطعه استفاده شود، اجرا می‌شود.
 
-![Test a new block](images/block-test.png)
+![یک قطعه‌ی جدید را آزمایش کنید](images/block-test.png)
 
-### Making a block with parameters
+### ساخت یک قطعه با پارامترها
 
-+ You can also create blocks that have 'gaps' for adding data. These 'gaps' are called 'parameters'. To add parameters, first make a new block, and then click on the options below to choose the type of data you want to add. Then give your data a name, and click **OK**.
++ شما همچنین می‌توانید قطعه‌هایی بسازید که دارای 'محلی' برای اضافه کردن اطلاعات هستند. این 'محل‌ها'، 'پارامترها' نامیده می‌شوند. برای اضافه کردن پارامترها، ابتدا یک قطعه جدید ایجاد کنید و سپس بر روی گزینه‌های زیر کلیک کنید تا نوع داده ای را که می‌خواهید اضافه کنید، انتخاب نمایید. سپس داده‌ی خود را نامگذاری کنید و روی **تایید** کلیک کنید.
 
-![Create a new block with parameters](images/parameter-create-annotated.png)
+![یک قطعه‌ی جدید با پارامترها ایجاد کنید](images/parameter-create-annotated.png)
 
-+ You will see a new `define` block as usual, except that this one contains the data gap you added and which you gave a name.
++ شما یک قطعه‌ی `تعریف` جدید را مطابق معمول خواهید دید، به جز اینکه این یکی دارای محل داده‌ای است که شما اضافه کرده‌اید و آن را نامگذاری نموده‌اید.
 
-![Define a new block with parameters](images/parameter-define-annotated.png)
+![یک قطعه‌ی جدید با پارامترها را تعریف کنید](images/parameter-define-annotated.png)
 
-+ You can then use your new block, filling in data in the gap.
++ بعد از این می‌توانید از قطعه‌ی جدید خود استفاده کنید و داده را در محل وارد کنید.
 
-![Use a new block with parameters](images/parameter-use.png)
+![از یک قطعه‌ی جدید با پارامترها استفاده کنید](images/parameter-use.png)
 
-+ As usual, the code attached to your new `define` block is run whenever the block is used.
++ طبق معمول، کد متصل به قطعه‌ی `تعریف` شما، هر زمان که از قطعه استفاده شود، اجرا می‌شود.
 
-![Test a new block with parameters](images/parameter-test.png)
+![یک قطعه‌ی جدید با پارامترها را آزمایش کنید](images/parameter-test.png)
