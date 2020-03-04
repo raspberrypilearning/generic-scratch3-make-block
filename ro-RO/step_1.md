@@ -1,39 +1,39 @@
-### Making a block
+### Crearea unui bloc
 
-+ Click on **My Blocks**, and then click **Make a Block**.
++ Dă click pe **Blocurile mele**, iar apoi dă click pe **Creează un bloc**.
 
-![My Blocks](images/my-blocks-annotated.png)
+![Blocurile mele](images/my-blocks-annotated.png)
 
-+ Give your new block a name and then click **OK**.
++ Dă-i noului tău bloc un nume, iar apoi dă click pe **OK**.
 
-![Create a new block](images/block-create.png)
+![Crearea unui bloc nou](images/block-create.png)
 
-+ You will see a new `define` block. Attach code to this block.
++ Vei vedea un nou bloc `definește`. Atașează codul acestui bloc.
 
-![Define a new block](images/block-define.png)
+![Definirea unui bloc nou](images/block-define.png)
 
-+ You can then use your new block just like any normal block.
++ Apoi, vei putea folosi noul tău bloc ca și un bloc normal.
 
-![Use a new block](images/block-use.png)
+![Folosirea unui bloc nou](images/block-use.png)
 
-+ The code attached to your new `define` block is run whenever the block is used.
++ Codul atașat noului tău bloc `definește` este rulat de fiecare dată când blocul este folosit.
 
-![Test a new block](images/block-test.png)
+![Testarea unui bloc nou](images/block-test.png)
 
-### Making a block with parameters
+### Crearea unui bloc cu parametri
 
-+ You can also create blocks that have 'gaps' for adding data. These 'gaps' are called 'parameters'. To add parameters, first make a new block, and then click on the options below to choose the type of data you want to add. Then give your data a name, and click **OK**.
++ Poți crea și blocuri care au „spații libere” pentru a adăuga date. Aceste „spații libere” se numesc parametri'. Pentru a adăuga parametri, creează un nou bloc, iar apoi dă click pe opțiunile de mai jos pentru a alege tipul datei pe care vrei să o adaugi. Apoi, oferă-i datei tale un nume, iar după dă click pe **OK**.
 
-![Create a new block with parameters](images/parameter-create-annotated.png)
+![Crearea unui bloc nou cu parametri](images/parameter-create-annotated.png)
 
-+ You will see a new `define` block as usual, except that this one contains the data gap you added and which you gave a name.
++ Vei vedea un nou bloc `definește` ca în cazul precedent, singura diferență fiind spațiul gol în plus pentru data pe care ai adăugat-o și căreia i-ai dat un nume.
 
-![Define a new block with parameters](images/parameter-define-annotated.png)
+![Definirea unui bloc nou cu parametri](images/parameter-define-annotated.png)
 
-+ You can then use your new block, filling in data in the gap.
++ Acum poți folosi noul tău bloc, completând cu date în spațiile goale.
 
-![Use a new block with parameters](images/parameter-use.png)
+![Folosirea unui bloc nou cu parametri](images/parameter-use.png)
 
-+ As usual, the code attached to your new `define` block is run whenever the block is used.
++ Ca în mod normal, codul atașat noului tău bloc `definește` este rulat de fiecare dată când blocul este folosit.
 
-![Test a new block with parameters](images/parameter-test.png)
+![Testarea unui bloc nou cu parametri](images/parameter-test.png)
