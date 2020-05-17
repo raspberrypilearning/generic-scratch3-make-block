@@ -1,39 +1,39 @@
-### Making a block
+### Δημιουργία Εντολής
 
-+ Click on **My Blocks**, and then click **Make a Block**.
++ Κάνε κλικ στην καρτέλα **Οι Εντολές μου**, και μετά επίλεξε τη **Δημιουργία Εντολής**.
 
-![My Blocks](images/my-blocks-annotated.png)
+![Οι Εντολές μου](images/my-blocks-annotated.png)
 
-+ Give your new block a name and then click **OK**.
++ Δώσε ένα όνομα στη νέα εντολή και, στη συνέχεια, κάνε κλικ στο **OK**.
 
-![Create a new block](images/block-create.png)
+![Δημιουργία νέας εντολής](images/block-create.png)
 
-+ You will see a new `define` block. Attach code to this block.
++ Θα δεις ένα νέο μπλοκ `ορισμός`. Βάλε κώδικα σε αυτό το μπλοκ.
 
-![Define a new block](images/block-define.png)
+![Ορισμός νέας εντολής](images/block-define.png)
 
-+ You can then use your new block just like any normal block.
++ Στη συνέχεια, μπορείς να χρησιμοποιείς το νέο σου μπλοκ όπως κάθε κανονικό μπλοκ.
 
-![Use a new block](images/block-use.png)
+![Χρήση νέας εντολής](images/block-use.png)
 
-+ The code attached to your new `define` block is run whenever the block is used.
++ Ο κώδικας που θα βάλεις στο μπλοκ `ορισμός` εκτελείται όποτε χρησιμοποιείται το μπλοκ αυτό.
 
-![Test a new block](images/block-test.png)
+![Δοκιμή νέας εντολής](images/block-test.png)
 
-### Making a block with parameters
+### Δημιουργία Εντολής με παραμέτρους
 
-+ You can also create blocks that have 'gaps' for adding data. These 'gaps' are called 'parameters'. To add parameters, first make a new block, and then click on the options below to choose the type of data you want to add. Then give your data a name, and click **OK**.
++ Μπορείς επίσης να δημιουργήσεις εντολές που έχουν «κενά» πεδία για την προσθήκη δεδομένων. Αυτά τα «κενά» ονομάζονται «παράμετροι». Για να προσθέσεις παραμέτρους, δημιούργησε πρώτα μια νέα Εντολή και, στη συνέχεια, κάνε κλικ στις παρακάτω επιλογές για να επιλέξεις τον τύπο δεδομένων που θέλεις να προσθέσεις. Στη συνέχεια, δώσε στα δεδομένα σου ένα όνομα και κάνε κλικ στο **OK**.
 
-![Create a new block with parameters](images/parameter-create-annotated.png)
+![Δημιουργία νέας εντολής με παραμέτρους](images/parameter-create-annotated.png)
 
-+ You will see a new `define` block as usual, except that this one contains the data gap you added and which you gave a name.
++ Θα δεις ένα νέο μπλοκ `ορισμός` ως συνήθως, το οποίο όμως περιέχει ένα «κενό» για τα δεδομένα που πρόσθεσες και στα οποία έδωσες ένα όνομα.
 
-![Define a new block with parameters](images/parameter-define-annotated.png)
+![Ορισμός νέας εντολής με παραμέτρους](images/parameter-define-annotated.png)
 
-+ You can then use your new block, filling in data in the gap.
++ Στη συνέχεια, μπορείς να χρησιμοποιείς το νέο σου μπλοκ, συμπληρώνοντας δεδομένα στο κενό.
 
-![Use a new block with parameters](images/parameter-use.png)
+![Χρήση νέας εντολής με παραμέτρους](images/parameter-use.png)
 
-+ As usual, the code attached to your new `define` block is run whenever the block is used.
++ Όπως και πριν, ο κώδικας που θα βάλεις στο μπλοκ `ορισμός` εκτελείται όποτε χρησιμοποιείται το μπλοκ αυτό.
 
-![Test a new block with parameters](images/parameter-test.png)
+![Δοκιμή νέας εντολής με παραμέτρους](images/parameter-test.png)
