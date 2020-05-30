@@ -1,12 +1,12 @@
-### Making a block
+### block बनाना
 
-+ Click on **My Blocks**, and then click **Make a Block**.
++ **My Blocks** पर क्लिक करें, और फिर **Make a Block** ।
 
-![My Blocks](images/my-blocks-annotated.png)
+![मेरे Blocks](images/my-blocks-annotated.png)
 
-+ Give your new block a name and then click **OK**.
++ अपने नए block को कोई नाम दें और फिर **OK**पर क्लिक करें।
 
-![Create a new block](images/block-create.png)
+![एक नया block बनाएँ](images/block-create.png)
 
 + You will see a new `define` block. Attach code to this block.
 
