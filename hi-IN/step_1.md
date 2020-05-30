@@ -8,19 +8,19 @@
 
 ![एक नया block बनाएँ](images/block-create.png)
 
-+ You will see a new `define` block. Attach code to this block.
++ आपको एक नया `वर्णन करना` block दिखाई देगा। इस block में code संलग्न करें।
 
-![Define a new block](images/block-define.png)
+![एक नया block वर्णन करें](images/block-define.png)
 
-+ You can then use your new block just like any normal block.
++ फिर आप अपने नए block का उपयोग किसी भी सामान्य block की तरह कर सकते हैं।
 
-![Use a new block](images/block-use.png)
+![एक नए block का उपयोग करें](images/block-use.png)
 
-+ The code attached to your new `define` block is run whenever the block is used.
++ जब भी इस block का उपयोग किया जाता है तो आपके नए `define` block से संलग्न कोड चलाया जाता है।
 
-![Test a new block](images/block-test.png)
+![एक नए block का परीक्षण करें](images/block-test.png)
 
-### Making a block with parameters
+### पैरामीटरों वाला एक block बनाना
 
 + You can also create blocks that have 'gaps' for adding data. These 'gaps' are called 'parameters'. To add parameters, first make a new block, and then click on the options below to choose the type of data you want to add. Then give your data a name, and click **OK**.
 
