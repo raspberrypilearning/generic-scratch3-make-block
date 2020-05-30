@@ -22,18 +22,18 @@
 
 ### पैरामीटरों वाला एक block बनाना
 
-+ You can also create blocks that have 'gaps' for adding data. These 'gaps' are called 'parameters'. To add parameters, first make a new block, and then click on the options below to choose the type of data you want to add. Then give your data a name, and click **OK**.
++ डेटा जोड़ने के लिए आप ऐसे blocks भी बना सकते हैं जिनमें 'फ़ासला' हों। ये 'खाली जगहें' 'पैरामीटर' कहलाती हैं। पैरामीटर जोड़ने के लिए, पहले एक नया block बनाएँ, और फिर आप जिस प्रकार का डेटा जोड़ना चाहते हैं उसे चुनने के लिए नीचे दिए गए विकल्पों पर क्लिक करें। फिर अपने डेटा को कोई नाम दें, और **OK**पर क्लिक करें।
 
-![Create a new block with parameters](images/parameter-create-annotated.png)
+![पैरामीटरों वाला एक नया block बनाएँ](images/parameter-create-annotated.png)
 
-+ You will see a new `define` block as usual, except that this one contains the data gap you added and which you gave a name.
++ आपको हमेशा की तरह एक नया `define` block दिखाई देगा, सिवाय इसके कि इसमें आपके द्वारा जोड़ी गई डेटा की खाली जगह शामिल है और जिसे आपने कोई नाम दिया है।
 
-![Define a new block with parameters](images/parameter-define-annotated.png)
+![पैरामीटरों वाला एक नया block वर्णन करें](images/parameter-define-annotated.png)
 
-+ You can then use your new block, filling in data in the gap.
++ फिर आप खाली जगह में डेटा को भरते हुए, अपने नए block का उपयोग कर सकते हैं।
 
-![Use a new block with parameters](images/parameter-use.png)
+![पैरामीटरों वाले एक नए block का उपयोग करें](images/parameter-use.png)
 
-+ As usual, the code attached to your new `define` block is run whenever the block is used.
++ हमेशा की तरह, जब भी इस block का उपयोग किया जाता है तो आपके नए `define` block से संलग्न कोड चलाया जाता है।
 
-![Test a new block with parameters](images/parameter-test.png)
+![पैरामीटरों वाले एक नए block का परीक्षण करें](images/parameter-test.png)
