@@ -4,7 +4,7 @@
 
 ![My Blocks](images/my-blocks-annotated.png)
 
-+ Give your new block a name and then click **OK**.
++ ನಿಮ್ಮ ಹೊಸ ಬ್ಲಾಕ್ ಹೆಸರು ನೀಡಿ ಮತ್ತು ನಂತರ ಕ್ಲಿಕ್ ಮಾಡಿ **OK**.
 
 ![Create a new block](images/block-create.png)
 
