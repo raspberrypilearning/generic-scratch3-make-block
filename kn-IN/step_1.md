@@ -1,14 +1,14 @@
-### Making a block
+### ಒಂದು ಬ್ಲಾಕ್ ಮಾಡುವುದು
 
-+ Click on **My Blocks**, and then click **Make a Block**.
++ ಕ್ಲಿಕ್ ಮಾಡಿ **My Blocks**, ನಂತರ ಕ್ಲಿಕ್ ಮಾಡಿ **Make a Block**.
 
-![My Blocks](images/my-blocks-annotated.png)
+![ನನ್ನ ಬ್ಲಾಕ್ಸ್(My blocks)](images/my-blocks-annotated.png)
 
 + ನಿಮ್ಮ ಹೊಸ ಬ್ಲಾಕ್ ಹೆಸರು ನೀಡಿ ಮತ್ತು ನಂತರ ಕ್ಲಿಕ್ ಮಾಡಿ **OK**.
 
-![Create a new block](images/block-create.png)
+![ಹೊಸ ಬ್ಲಾಕ್ ಅನ್ನು ರಚಿಸಿ](images/block-create.png)
 
-+ You will see a new `define` block. Attach code to this block.
++ ನೀವು ನೋಡುತ್ತೀರಾ ಹೊಸ `define` ಬ್ಲಾಕ್. ಈ ಬ್ಲಾಕ್‌ಗೆ ಕೋಡ್ ಲಗತ್ತಿಸಿ.
 
 ![ಹೊಸ ಬ್ಲಾಕ್ ಅನ್ನು ವಿವರಿಸಿ](images/block-define.png)
 
