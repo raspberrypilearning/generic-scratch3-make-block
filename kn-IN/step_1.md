@@ -10,30 +10,30 @@
 
 + You will see a new `define` block. Attach code to this block.
 
-![Define a new block](images/block-define.png)
+![ಹೊಸ ಬ್ಲಾಕ್ ಅನ್ನು ವಿವರಿಸಿ](images/block-define.png)
 
-+ You can then use your new block just like any normal block.
++ ನಂತರ ನೀವು ಯಾವುದೇ ಹೊಸ ಬ್ಲಾಕ್‌ನಂತೆಯೇ ನಿಮ್ಮ ಹೊಸ ಬ್ಲಾಕ್ ಅನ್ನು ಬಳಸಬಹುದು.
 
-![Use a new block](images/block-use.png)
+![ಹೊಸ ಬ್ಲಾಕ್ ಬಳಸಿ](images/block-use.png)
 
-+ The code attached to your new `define` block is run whenever the block is used.
++ ನಿಮ್ಮ ಹೊಸ `define` ಬ್ಲಾಕ್ ಗೆ ಲಗತ್ತಿಸಲಾದ ಕೋಡ್ ಅನ್ನು ಬಳಸಿದಾಗಲೆಲ್ಲಾ ಬ್ಲಾಕ್ ಅನ್ನು ರನ್ ಮಾಡಲಾಗುತ್ತದೆ.
 
-![Test a new block](images/block-test.png)
+![ಹೊಸ ಬ್ಲಾಕ್ ಅನ್ನು ಪರೀಕ್ಷಿಸಿ](images/block-test.png)
 
-### Making a block with parameters
+### ಪ್ಯಾರಾಮೀಟರ್ ಇಂದ ಬ್ಲಾಕ್ ಮಾಡುವುದು
 
-+ You can also create blocks that have 'gaps' for adding data. These 'gaps' are called 'parameters'. To add parameters, first make a new block, and then click on the options below to choose the type of data you want to add. Then give your data a name, and click **OK**.
++ ಡೇಟಾವನ್ನು ಸೇರಿಸಲು 'ಗಪ್ಸ್'(ಅಂತರಗಳು) ಹೊಂದಿರುವ ಬ್ಲಾಕ್‌ಗಳನ್ನು ಸಹ ನೀವು ರಚಿಸಬಹುದು. ಈ 'ಗಪ್ಸ್'(ಅಂತರಗಳು) ಅನ್ನು 'ಪ್ಯಾರಾಮೀಟರ್' ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ. ಪ್ಯಾರಾಮೀಟರ್ ಸೇರಿಸಲು, ಮೊದಲು ಹೊಸ ಬ್ಲಾಕ್ ಮಾಡಿ, ತದನಂತರ ನೀವು ಸೇರಿಸಲು ಬಯಸುವ ಡೇಟಾದ ಪ್ರಕಾರವನ್ನು ಆಯ್ಕೆ ಮಾಡಲು ಕೆಳಗಿನ ಆಯ್ಕೆಗಳ ಮೇಲೆ ಕ್ಲಿಕ್ ಮಾಡಿ. ನಂತರ ನಿಮ್ಮ ಡೇಟಾಗೆ(data) ಹೆಸರನ್ನು ನೀಡಿ, ಮತ್ತು ಕ್ಲಿಕ್ ಮಾಡಿ ** ok **.
 
-![Create a new block with parameters](images/parameter-create-annotated.png)
+![ಪ್ಯಾರಾಮೀಟರ್ ಇಂದ ಹೊಸ ಬ್ಲಾಕ್ ಮಾಡುವುದು](images/parameter-create-annotated.png)
 
-+ You will see a new `define` block as usual, except that this one contains the data gap you added and which you gave a name.
++ ನೀವು ನೋಡುವಿರಿ ಹೊಸ `define` ಬ್ಲಾಕ್ ಎಂದಿನಂತೆ ನೋಡುತ್ತೀರಾ, ಅದು ಬಿಟ್ಟು ಇದು ನೀವು ಸೇರಿಸಿದ ಡೇಟಾ ಗ್ಯಾಪ್ ಹಾಗೂ ನೀವು ಕೊಟ್ಟ ಹೆಸರು ಹೊಂದಿರುತ್ತದೆ.
 
-![Define a new block with parameters](images/parameter-define-annotated.png)
+![ಪ್ಯಾರಾಮೀಟರ್ ಇಂದ ಹೊಸ ಬ್ಲಾಕ್ ವಿವರಣೆ ಮಾಡುವುದು](images/parameter-define-annotated.png)
 
-+ You can then use your new block, filling in data in the gap.
++ ನಂತರ ನೀವು ನಿಮ್ಮ ಹೊಸ ಬ್ಲಾಕ್ ಅನ್ನು ಬಳಸಬಹುದು, ಅಂತರದಲ್ಲಿ ಡೇಟಾವನ್ನು ಭರ್ತಿ ಮಾಡಿ.
 
-![Use a new block with parameters](images/parameter-use.png)
+![ಪ್ಯಾರಾಮೀಟರ್ ಜೊತೆ ಹೊಸ ಬ್ಲಾಕ್ ಬಳಸಿ](images/parameter-use.png)
 
-+ As usual, the code attached to your new `define` block is run whenever the block is used.
++ ಎಂದಿನಂತೆ, ಕೋಡ್ ಲಗತ್ತಿಸಲಾದ ನಿಮ್ಮ ಹೊಸ `define` ಬ್ಲಾಕ್ ರನ್(ಓಡು) ಆಗಿದೆ ಬ್ಲಾಕ್ ಅನ್ನು ಬಳಸಿದಾಗಲೆಲ್ಲಾ.
 
-![Test a new block with parameters](images/parameter-test.png)
+![ಪ್ಯಾರಾಮೀಟರ್(ನಿಯತಾಂಕ) ಜೊತೆ ಹೊಸ ಬ್ಲಾಕ್ ಪರೀಕ್ಷಿಸಿ](images/parameter-test.png)
