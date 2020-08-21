@@ -4,7 +4,7 @@
 
 ![Mis bloques](images/my-blocks-annotated.png)
 
-+ Dale un nombre a tu nuevo bloque y haz clic en **OK**.
++ Dale un nombre a tu nuevo bloque y haz clic en **De acuerdo**.
 
 ![Crea un nuevo bloque](images/block-create.png)
 
@@ -22,7 +22,7 @@
 
 ### Hacer un bloque con parámetros
 
-+ También puedes crear bloques 'espacios' para añadir datos. Estos 'espacios' se llaman 'parámetros'. Para agregar parámetros, primero crea un nuevo bloque y luego haz clic en las opciones de abajo para elegir el tipo de datos que deseas agregar. Luego da un nombre a tus datos y haz clic en **OK**.
++ También puedes crear bloques que tengan 'espacios' para agregar datos. Estos 'espacios' se llaman 'parámetros'. Para agregar parámetros, primero crea un nuevo bloque y luego haz clic en las opciones de abajo para elegir el tipo de datos que deseas agregar. Luego da un nombre a tus datos y haz clic en **De acuerdo**.
 
 ![Crea un nuevo bloque con parámetros](images/parameter-create-annotated.png)
 
