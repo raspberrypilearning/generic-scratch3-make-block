@@ -1,6 +1,6 @@
 ### Créer un bloc
 
-+ Clique sur **Mes Blocs**, puis clique sur **Créer un Bloc**.
++ Clique sur **Mes Blocs**, puis clique sur **Créer un bloc**.
 
 ![Mes Blocs](images/my-blocks-annotated.png)
 
