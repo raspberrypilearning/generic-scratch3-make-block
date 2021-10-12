@@ -22,15 +22,15 @@
 
 ### إنشاء كتلة مع معطيات
 
-+ يمكنك أيضًا إنشاء كتل بها "فجوات" لإضافة البيانات. تسمى هذه "الفجوات" "معطيات". To add parameters, first make a new block, and then click on the options below to choose the type of data you want to add. Then give your data a name, and click **OK**.
++ يمكنك أيضًا إنشاء كتل بها "فجوات" لإضافة البيانات. تسمى هذه "الفجوات" "معطيات". لإضافة معطيات، قم أولاً بإنشاء كتلة جديدة ، ثم انقر فوق الخيارات أدناه لاختيار نوع البيانات التي تريد إضافتها. ثم قم بتسمية البيانات الخاصة بك ، وانقر فوق **موافق**.
 
 ![Create a new block with parameters](images/parameter-create-annotated.png)
 
-+ You will see a new `define` block as usual, except that this one contains the data gap you added and which you gave a name.
++ سوف ترى `تحديد كتلة` جديدة كالمعتاد، باستثناء أن هذا يحتوي على ثغرة البيانات التي أضفتها والتي أعطيت اسماً.
 
 ![Define a new block with parameters](images/parameter-define-annotated.png)
 
-+ You can then use your new block, filling in data in the gap.
++ يمكنك بعد ذلك استخدام الكتلة الجديدة الخاصة بك، ملء البيانات في الفجوة.
 
 ![Use a new block with parameters](images/parameter-use.png)
 
