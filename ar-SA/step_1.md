@@ -1,28 +1,28 @@
-### Making a block
+### اصنع كتلة برمجية
 
-+ Click on **My Blocks**, and then click **Make a Block**.
++ اذهب إلى القسم **لبناتي** وانقر فوق **إنشاء لبنة**.
 
 ![My Blocks](images/my-blocks-annotated.png)
 
-+ Give your new block a name and then click **OK**.
++ قم بتسمية التعليمة البرمجية الجديدة الخاصة بك ، ثم انقر فوق **موافق**.
 
 ![Create a new block](images/block-create.png)
 
-+ You will see a new `define` block. Attach code to this block.
++ سوف تشاهد `تعريف الكتلة` الجديدة. إرفاق التعليمات البرمجية لهذه الكتلة.
 
 ![Define a new block](images/block-define.png)
 
-+ You can then use your new block just like any normal block.
++ يمكنك بعد ذلك استخدام كتلة جديدة مثل أي كتلة عادية.
 
 ![Use a new block](images/block-use.png)
 
-+ The code attached to your new `define` block is run whenever the block is used.
++ يتم تشغيل التعليمة البرمجية المرفقة `تعريف` جديد كلما تم استخدام الكتلة.
 
 ![Test a new block](images/block-test.png)
 
-### Making a block with parameters
+### إنشاء كتلة مع معطيات
 
-+ You can also create blocks that have 'gaps' for adding data. These 'gaps' are called 'parameters'. To add parameters, first make a new block, and then click on the options below to choose the type of data you want to add. Then give your data a name, and click **OK**.
++ يمكنك أيضًا إنشاء كتل بها "فجوات" لإضافة البيانات. تسمى هذه "الفجوات" "معطيات". To add parameters, first make a new block, and then click on the options below to choose the type of data you want to add. Then give your data a name, and click **OK**.
 
 ![Create a new block with parameters](images/parameter-create-annotated.png)
 
