@@ -1,14 +1,14 @@
-### block बनाना
+### Block बनाना
 
-+ **My Blocks** पर क्लिक करें, और फिर **Make a Block** ।
++ **My Blocks** पर क्लिक करें, और फिर **Make a Block** क्लिक करें।
 
 ![मेरे Blocks](images/my-blocks-annotated.png)
 
-+ अपने नए block को कोई नाम दें और फिर **OK**पर क्लिक करें।
++ अपने नए block को कोई नाम दें और फिर **OK** पर क्लिक करें।
 
 ![एक नया block बनाएँ](images/block-create.png)
 
-+ आपको एक नया `वर्णन करना` block दिखाई देगा। इस block में code संलग्न करें।
++ आपको एक नया `define` block दिखाई देगा। इस block में code संलग्न करें।
 
 ![एक नया block वर्णन करें](images/block-define.png)
 
