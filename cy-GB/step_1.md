@@ -1,6 +1,6 @@
 ### Gwneud bloc
 
-+ Clicia ar **Fy Mlociau**, ac yna clicia **Gwneud Bloc**.
++ Clicia ar **Fy Mlociau**, ac yna clicia **Creu Bloc**.
 
 ![Fy Mlociau](images/my-blocks-annotated.png)
 
