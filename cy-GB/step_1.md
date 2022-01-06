@@ -1,39 +1,39 @@
-### Making a block
+### Gwneud bloc
 
-+ Click on **My Blocks**, and then click **Make a Block**.
++ Clicia ar **Fy Mlociau**, ac yna clicia **Gwneud Bloc**.
 
-![My Blocks](images/my-blocks-annotated.png)
+![Fy Mlociau](images/my-blocks-annotated.png)
 
-+ Give your new block a name and then click **OK**.
++ Rho enw i dy floc newydd ac wedyn clicio **OK**.
 
-![Create a new block](images/block-create.png)
+![Creu bloc newydd](images/block-create.png)
 
-+ You will see a new `define` block. Attach code to this block.
++ Byddi di'n gweld bloc `diffinio` newydd. Atoda'r cod i'r bloc hwn.
 
-![Define a new block](images/block-define.png)
+![Diffinio bloc newydd](images/block-define.png)
 
-+ You can then use your new block just like any normal block.
++ Galli di wedyn ddefnyddio dy floc newydd yn union fel unrhyw floc arferol.
 
-![Use a new block](images/block-use.png)
+![Defnyddio bloc newydd](images/block-use.png)
 
-+ The code attached to your new `define` block is run whenever the block is used.
++ Mae'r cod sydd ynghlwm wrth dy floc `diffinio` newydd yn cael ei redeg pryd bynnag mae'r bloc yn cael ei ddefnyddio.
 
-![Test a new block](images/block-test.png)
+![Profi bloc newydd](images/block-test.png)
 
-### Making a block with parameters
+### Gwneud bloc gyda pharamedrau
 
-+ You can also create blocks that have 'gaps' for adding data. These 'gaps' are called 'parameters'. To add parameters, first make a new block, and then click on the options below to choose the type of data you want to add. Then give your data a name, and click **OK**.
++ Galli di hefyd greu blociau sydd â 'bylchau' ar gyfer ychwanegu data. Gelwir y 'bylchau' hyn yn 'baramedrau'. I ychwanegu paramedrau, gwna floc newydd yn gyntaf, ac yna clicio ar y dewisiadau isod i ddewis y math o ddata rwyt ti am ei ychwanegu. Yna rho enw i dy ddata, a chlicio **OK**.
 
-![Create a new block with parameters](images/parameter-create-annotated.png)
+![Creu bloc newydd gyda pharamedrau](images/parameter-create-annotated.png)
 
-+ You will see a new `define` block as usual, except that this one contains the data gap you added and which you gave a name.
++ Byddi di'n gweld bloc `diffinio` newydd fel arfer, ond bydd gan yr un yma y bwlch data wnes di ei ychwanegu ac enwi.
 
-![Define a new block with parameters](images/parameter-define-annotated.png)
+![Diffinio bloc newydd gyda pharamedrau](images/parameter-define-annotated.png)
 
-+ You can then use your new block, filling in data in the gap.
++ Galli di ddefnyddio dy floc newydd wedyn, gan lenwi data yn y bwlch.
 
-![Use a new block with parameters](images/parameter-use.png)
+![Defnyddio bloc newydd gyda pharamedrau](images/parameter-use.png)
 
-+ As usual, the code attached to your new `define` block is run whenever the block is used.
++ Fel arfer, mae'r cod sydd ynghlwm wrth dy floc `diffinio` newydd yn cael ei redeg pryd bynnag mae'r bloc yn cael ei ddefnyddio.
 
-![Test a new block with parameters](images/parameter-test.png)
+![Profi bloc newydd gyda pharamedrau](images/parameter-test.png)
