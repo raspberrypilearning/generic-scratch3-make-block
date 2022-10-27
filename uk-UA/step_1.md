@@ -1,39 +1,39 @@
-### Making a block
+### Створення блоку
 
-+ Click on **My Blocks**, and then click **Make a Block**.
++ Натисни **Мої блоки**, і вибери **Створити блок**.
 
-![My Blocks](images/my-blocks-annotated.png)
+![Мої блоки](images/my-blocks-annotated.png)
 
-+ Give your new block a name and then click **OK**.
++ Дай своєму новому блоку назву і натисни **Гаразд**.
 
-![Create a new block](images/block-create.png)
+![Створи новий блок](images/block-create.png)
 
-+ You will see a new `define` block. Attach code to this block.
++ Ти побачиш новий `визначений` блок. Прикріпи код до цього блоку.
 
-![Define a new block](images/block-define.png)
+![Визнач новий блок](images/block-define.png)
 
-+ You can then use your new block just like any normal block.
++ Далі ти можеш використовувати свій новий блок як будь-який звичайний блок.
 
-![Use a new block](images/block-use.png)
+![Скористайся новим блоком](images/block-use.png)
 
-+ The code attached to your new `define` block is run whenever the block is used.
++ Код, прикріплений до твого нового `визначеного` блоку, буде виконуватись при кожному наступному використанні цього блоку.
 
-![Test a new block](images/block-test.png)
+![Протестуй новий блок](images/block-test.png)
 
-### Making a block with parameters
+### Створення блоку з параметрами
 
-+ You can also create blocks that have 'gaps' for adding data. These 'gaps' are called 'parameters'. To add parameters, first make a new block, and then click on the options below to choose the type of data you want to add. Then give your data a name, and click **OK**.
++ Також можна створювати блоки з «пробілами» для додавання даних. Ці «пробіли» називаються «параметрами». Для додавання параметрів спочатку створи новий блок, а потім натисни опції нижче, щоб обрати тип даних, які ти хочеш додати. Далі дай своїм даним назву та натисни **Гаразд**.
 
-![Create a new block with parameters](images/parameter-create-annotated.png)
+![Створи новий блок з параметрами](images/parameter-create-annotated.png)
 
-+ You will see a new `define` block as usual, except that this one contains the data gap you added and which you gave a name.
++ Ти побачиш новий `визначений` код, як звичайно, за виключенням того, що він містить пробіл для даних, який ти додав і якому ти дав назву.
 
-![Define a new block with parameters](images/parameter-define-annotated.png)
+![Визнач новий блок з параметрами](images/parameter-define-annotated.png)
 
-+ You can then use your new block, filling in data in the gap.
++ Далі ти можеш використовувати свій новий блок, заповнивши дані в пробілі.
 
-![Use a new block with parameters](images/parameter-use.png)
+![Скористайся новим блоком з параметрами](images/parameter-use.png)
 
-+ As usual, the code attached to your new `define` block is run whenever the block is used.
++ Як звичайно, код, прикріплений до твого нового `визначеного` блоку, буде виконуватись при кожному наступному використанні цього блоку.
 
-![Test a new block with parameters](images/parameter-test.png)
+![Протестуй новий блок з параметрами](images/parameter-test.png)
